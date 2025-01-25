@@ -33,6 +33,7 @@ Efficient Retrieval:
 1. Clone the repository:
 
    ```bash
+   git clone https://github.com/Annad25/Finance_bot.git
    
 
 2. Install the required Python dependencies:
