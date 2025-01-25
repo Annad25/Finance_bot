@@ -48,7 +48,7 @@ Efficient Retrieval:
    OPENAI_API_KEY=your_openai_api_key
     
 4. Run the app deployed on docker:
-   You will have to have docker installed in your system to run the application. Go to docker's official website, [Docker official site]([URL](https://www.docker.com/get-started/))
+   You will have to have docker installed in your system to run the application. Go to docker's official website, [Docker official site](https://www.docker.com/get-started/)
    and follow the instructions to download it on your system. After that follow the next steps.
 
    
