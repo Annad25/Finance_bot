@@ -17,11 +17,13 @@ Retrieve answers along with references to relevant financial data.
 
 ## Backend Integration
 Data Processing:
-Extracts and preprocesses financial data from uploaded PDFs.Converts the data into embeddings for efficient vector search.
+   Extracts and preprocesses financial data from uploaded PDFs.Converts the data into embeddings for efficient vector search.
+   
 Query Resolution:
-Uses a RAG pipeline to retrieve relevant financial data and generate precise, context-aware responses.
+   Uses a RAG pipeline to retrieve relevant financial data and generate precise, context-aware responses.
+   
 Efficient Retrieval:
-Stores embeddings in a vector database (Pinecone) for high-speed similarity searches.
+   Stores embeddings in a vector database (Pinecone) for high-speed similarity searches.
 
 ## How to Use the Application
 
