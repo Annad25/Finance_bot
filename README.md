@@ -9,9 +9,10 @@ It also displays the specific data segments used to formulate the answers, enhan
 
 
 ## Features
-Frontend Interface: Built using Streamlit/Gradio for simplicity and accessibility
+Frontend Interface: 
+   Built using Streamlit/Gradio for simplicity and accessibility
 Users can:
-Upload PDF documents containing P&L data.
+   Upload PDF documents containing P&L data.
 Input queries like "What is the gross profit for Q3 2024?" or "What is the total revenue for the year?"
 Retrieve answers along with references to relevant financial data.
 
@@ -61,19 +62,19 @@ Efficient Retrieval:
 On the app's homepage, click the "Upload PDF" button.
 Select a PDF file containing P&L statements or similar financial data.
 Asking Queries:
-
-Enter a financial query into the provided text input field.
+   Enter a financial query into the provided text input field.
+   
 Examples:
-"What is the gross profit for Q3 2024?"
-"What are the total expenses for the year?"
+   "What is the gross profit for Q3 2024?"
+   "What are the total expenses for the year?"
 
 Interpreting Results:
-View the generated answer alongside the referenced segments from the P&L statement.
+   View the generated answer alongside the referenced segments from the P&L statement.
 
 ## Example Interactions
 Upload:
-User uploads "Sample_Financial_Statement.pdf".
+   User uploads "Sample_Financial_Statement.pdf".
 Query:
-Input: "What is the net income for 2023?"
-Response: "The net income for 2023 is $45,000. Referenced from "  "
+   Input: "What is the net income for 2023?"
+   Response: "The net income for 2023 is $45,000. Referenced from "  "
    
